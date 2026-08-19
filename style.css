@@ -220,19 +220,19 @@ body {
 
 /* Orden de las páginas */
 
-.book .page:nth-of-type(2) {
+.book .page:nth-child(2) {
     z-index: 5;
 }
 
-.book .page:nth-of-type(3) {
+.book .page:nth-child(3) {
     z-index: 4;
 }
 
-.book .page:nth-of-type(4) {
+.book .page:nth-child(4) {
     z-index: 3;
 }
 
-.book .page:nth-of-type(5) {
+.book .page:nth-child(5) {
     z-index: 2;
 }
 
